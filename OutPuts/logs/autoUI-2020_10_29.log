@@ -1,0 +1,79 @@
+2020-10-29 21:48:13,843 - D:/CodeBase/auto/autoUI/utils/logger.py [line:123] - 8756 - 2128 - autoUI-2020_10_29 - INFO: [32m[1m12334[0m
+2020-10-29 21:48:13,844 - D:/CodeBase/auto/autoUI/utils/logger.py [line:119] - 8756 - 2128 - autoUI-2020_10_29 - WARNING: [33m异常[0m
+2020-10-29 21:48:13,844 - D:/CodeBase/auto/autoUI/utils/logger.py [line:127] - 8756 - 2128 - autoUI-2020_10_29 - ERROR: [31m[1myic[0m
+2020-10-29 21:48:13,844 - D:/CodeBase/auto/autoUI/utils/logger.py [line:131] - 8756 - 2128 - autoUI-2020_10_29 - DEBUG: [35m[1m官方调式[0m
+2020-10-29 21:48:13,844 - D:/CodeBase/auto/autoUI/utils/logger.py [line:123] - 8756 - 2128 - autoUI-2020_10_29 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-29 23:22:12,933 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 14940 - 11124 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:22:12,942 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 14940 - 11124 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:22:12,942 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 14940 - 11124 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x00000128166597B8>[0m
+2020-10-29 23:24:46,565 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15080 - 15092 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:24:46,565 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15080 - 15092 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:24:46,566 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15080 - 15092 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001960ACD6D68>[0m
+2020-10-29 23:26:16,303 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16628 - 17384 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:26:16,304 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16628 - 17384 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:26:16,304 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16628 - 17384 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x00000203986FB3C8>[0m
+2020-10-29 23:29:15,588 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16660 - 10812 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:29:15,592 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16660 - 10812 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:29:15,592 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16660 - 10812 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BrowserEngine.BrowserEngine object at 0x000001C4923275F8>[0m
+2020-10-29 23:29:15,709 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16660 - 10812 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:36:43,803 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 1184 - 17144 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:36:43,807 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 1184 - 17144 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:36:43,808 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 1184 - 17144 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002B9A37CB9E8>[0m
+2020-10-29 23:36:49,009 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 1184 - 17144 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:38:42,872 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17216 - 3556 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:38:47,386 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17216 - 3556 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:38:47,387 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17216 - 3556 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002317509D390>[0m
+2020-10-29 23:38:47,503 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17216 - 3556 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:42:11,772 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16532 - 9936 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:42:16,255 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16532 - 9936 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:42:16,255 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16532 - 9936 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001BCAB027C50>[0m
+2020-10-29 23:42:16,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 16532 - 9936 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:43:15,878 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18524 - 18548 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:43:20,378 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18524 - 18548 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:43:20,378 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18524 - 18548 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002049EA3B1D0>[0m
+2020-10-29 23:43:21,832 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18524 - 18548 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:43:21,832 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18524 - 18548 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:43:50,133 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15564 - 11696 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:43:54,621 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15564 - 11696 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:43:54,621 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15564 - 11696 - autoUI-2020_10_29 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x00000237D3497DD8>[0m
+2020-10-29 23:43:56,180 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15564 - 11696 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:43:56,180 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 15564 - 11696 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:44:27,689 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 8708 - 1276 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 XX项目 执行测试===========[0m
+2020-10-29 23:44:32,202 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 8708 - 1276 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:44:32,202 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 8708 - 1276 - autoUI-2020_10_29 - INFO: [32m[1m--------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001D4DD7E7C50>[0m
+2020-10-29 23:44:33,790 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 8708 - 1276 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:44:33,790 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 8708 - 1276 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 XX项目 测试===========[0m
+2020-10-29 23:46:29,316 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13216 - 7960 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:46:33,800 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13216 - 7960 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:46:33,801 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13216 - 7960 - autoUI-2020_10_29 - INFO: [32m[1m--------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001E287CD75F8>[0m
+2020-10-29 23:46:35,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13216 - 7960 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:46:35,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13216 - 7960 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-29 23:47:37,218 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18204 - 18656 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:47:41,339 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18204 - 18656 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:47:41,340 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18204 - 18656 - autoUI-2020_10_29 - INFO: [32m[1m--------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001AECAF0FFD0>[0m
+2020-10-29 23:47:43,275 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18204 - 18656 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:47:43,276 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 18204 - 18656 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-29 23:49:12,135 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17944 - 3812 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:49:16,765 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17944 - 3812 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:49:16,766 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17944 - 3812 - autoUI-2020_10_29 - INFO: [32m[1m--------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000024C7FC51A58>[0m
+2020-10-29 23:49:18,235 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 17944 - 3812 - autoUI-2020_10_29 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-29 23:49:18,236 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17944 - 3812 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:49:18,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17944 - 3812 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-29 23:51:00,441 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10232 - 19432 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:51:04,951 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10232 - 19432 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:51:04,952 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10232 - 19432 - autoUI-2020_10_29 - INFO: [32m[1m--------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002D91C032C88>[0m
+2020-10-29 23:51:22,725 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 10232 - 19432 - autoUI-2020_10_29 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-29 23:51:22,727 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10232 - 19432 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:51:22,727 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10232 - 19432 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-29 23:54:03,597 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10432 - 15816 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:54:08,190 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10432 - 15816 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:54:08,190 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10432 - 15816 - autoUI-2020_10_29 - INFO: [32m[1m--------------------<Page.Plugs.BasePage.BasePage object at 0x0000026CDB26CA90>------------------------[0m
+2020-10-29 23:54:09,672 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 10432 - 15816 - autoUI-2020_10_29 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-29 23:54:09,673 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10432 - 15816 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:54:09,674 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 10432 - 15816 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-29 23:54:36,961 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17100 - 11768 - autoUI-2020_10_29 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-29 23:54:41,457 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17100 - 11768 - autoUI-2020_10_29 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-29 23:54:41,458 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17100 - 11768 - autoUI-2020_10_29 - INFO: [32m[1m-------------------- <Page.Plugs.BasePage.BasePage object at 0x000002841E9A2C18> ------------------------[0m
+2020-10-29 23:54:43,753 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 17100 - 11768 - autoUI-2020_10_29 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-29 23:54:43,756 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17100 - 11768 - autoUI-2020_10_29 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-29 23:54:43,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 17100 - 11768 - autoUI-2020_10_29 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m

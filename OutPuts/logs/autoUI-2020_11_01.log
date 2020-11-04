@@ -1,0 +1,535 @@
+2020-11-01 00:43:16,295 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 00:43:16,298 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 00:43:20,638 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 00:43:20,640 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 00:43:22,094 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 00:43:22,095 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 00:43:22,095 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="10e3df6eccca7b232e91fd2b86b4fee4")> ------------------------[0m
+2020-11-01 00:43:22,098 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 00:43:22,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 00:43:22,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-11-01 00:43:22,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 24408 - 21088 - autoUI-2020_11_01 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-11-01 00:43:22,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-11-01 00:43:22,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 24408 - 21088 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 00:43:23,177 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 00:43:23,177 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 24408 - 21088 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 00:43:23,178 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 24408 - 21088 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-11-01 00:43:23,314 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 00:43:23,314 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 24408 - 21088 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 00:46:30,709 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 00:46:30,710 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 00:46:34,819 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 00:46:34,822 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 00:46:36,468 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 00:46:36,469 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 00:46:36,469 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="c64b7300d3985f785f4e544c45e7cee4")> ------------------------[0m
+2020-11-01 00:46:36,471 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 00:46:36,472 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 00:46:36,472 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-11-01 00:46:36,472 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 7808 - 21892 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-11-01 00:46:36,600 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 00:46:36,601 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7808 - 21892 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 00:48:37,274 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 00:48:37,276 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 00:48:41,535 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 00:48:41,537 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 00:48:43,311 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 00:48:43,312 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 00:48:43,312 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="9b2aa7182378e742c4f4c5138c16f9bd")> ------------------------[0m
+2020-11-01 00:48:43,314 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 00:48:43,315 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 00:48:43,315 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m,点击页面元素:登录页面_登录功能[0m
+2020-11-01 00:48:43,315 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 19892 - 22036 - autoUI-2020_11_01 - DEBUG: [35m[1m[0m
+2020-11-01 00:48:43,315 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:[0m
+2020-11-01 00:48:43,319 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19892 - 22036 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素: 失败！！！[0m
+2020-11-01 00:48:44,297 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 00:48:44,298 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19892 - 22036 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素: 失败！！！[0m
+2020-11-01 00:48:44,298 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19892 - 22036 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:登录页面_登录功能,失败！！！[0m
+2020-11-01 00:48:44,427 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 00:48:44,427 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19892 - 22036 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 13:44:27,054 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12948 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 13:44:31,765 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12948 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 13:44:31,767 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12948 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 13:44:33,206 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12948 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 13:48:06,485 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8344 - 9304 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 13:48:10,936 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8344 - 9304 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 13:48:10,938 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8344 - 9304 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 13:48:13,232 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8344 - 9304 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 13:53:42,787 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 13:53:42,789 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 13:53:47,187 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 13:53:47,189 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 13:53:48,602 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 13:53:48,602 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 13:53:48,603 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="10b70662a47dbd9ea6d010abdd98b1c0")> ------------------------[0m
+2020-11-01 13:53:48,604 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 13:53:48,605 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 13:53:48,605 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m,点击页面元素:登录页面_登录功能[0m
+2020-11-01 13:53:48,605 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 3836 - 264 - autoUI-2020_11_01 - DEBUG: [35m[1m[0m
+2020-11-01 13:53:48,605 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:[0m
+2020-11-01 13:53:48,611 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 3836 - 264 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素: 失败！！！[0m
+2020-11-01 13:53:49,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 13:53:49,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 3836 - 264 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素: 失败！！！[0m
+2020-11-01 13:53:49,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 3836 - 264 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:登录页面_登录功能,失败！！！[0m
+2020-11-01 13:53:49,744 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 13:53:49,745 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 3836 - 264 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:25:29,023 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:25:29,024 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:25:33,116 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:25:33,118 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:25:34,707 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:25:34,708 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:25:34,708 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="2cae8eb497f336dbcad68e08be62b23f")> ------------------------[0m
+2020-11-01 14:25:34,710 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:25:34,711 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:25:34,711 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m,点击页面元素:登录页面_登录功能[0m
+2020-11-01 14:25:34,711 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 4108 - 13944 - autoUI-2020_11_01 - DEBUG: [35m[1m[0m
+2020-11-01 14:25:34,712 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:[0m
+2020-11-01 14:25:34,717 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 4108 - 13944 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素: 失败！！！[0m
+2020-11-01 14:25:35,748 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 14:25:35,748 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 4108 - 13944 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素: 失败！！！[0m
+2020-11-01 14:25:35,749 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 4108 - 13944 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:登录页面_登录功能,失败！！！[0m
+2020-11-01 14:25:35,882 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:25:35,882 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4108 - 13944 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:32:58,687 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:32:58,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:33:03,240 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:33:03,242 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:33:04,563 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:33:04,564 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:33:04,564 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="b8362e64025fbd30f1a6754cd11523a1")> ------------------------[0m
+2020-11-01 14:33:04,567 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:33:04,567 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:33:04,568 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 15184 - 10364 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:33:05,609 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 14:33:05,791 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:33:05,792 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15184 - 10364 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:34:15,260 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:34:15,262 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:34:19,527 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:34:19,529 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:34:21,253 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:34:21,254 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:34:21,254 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="d32bb8ac8101ea009a65cb6ad5886993")> ------------------------[0m
+2020-11-01 14:34:21,256 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:34:21,256 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:34:21,257 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 7408 - 13224 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:34:22,267 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 14:34:22,417 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:34:22,417 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7408 - 13224 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:38:36,416 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:38:36,418 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:38:40,905 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:38:40,907 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:39:00,377 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:39:00,377 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:39:00,378 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="f92f03544b6248ad5bfa5270cbea46fc")> ------------------------[0m
+2020-11-01 14:39:00,379 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:39:00,380 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:39:00,485 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:39:00,486 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15804 - 15628 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:39:41,540 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:39:41,543 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:39:45,615 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:39:45,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:39:47,214 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:39:47,215 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:39:47,215 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="60f0c70f7c2d59ed6ed1d117b16c0e5a")> ------------------------[0m
+2020-11-01 14:39:47,217 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:39:47,217 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:39:47,316 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:39:47,316 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17024 - 17028 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:50:38,794 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:50:38,796 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:50:42,900 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:50:42,902 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:50:44,366 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:50:44,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:50:44,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="0293682a83ab98035db76433228367c0")> ------------------------[0m
+2020-11-01 14:50:44,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:50:44,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:50:44,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16416 - 16736 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span 失败！！！[0m
+2020-11-01 14:50:45,470 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 14:50:45,515 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//*[@id="top_login_frame"][0m
+2020-11-01 14:50:45,515 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16416 - 16736 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 14:50:46,456 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 14:50:46,456 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16416 - 16736 - autoUI-2020_11_01 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-11-01 14:50:46,457 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-11-01 14:50:46,457 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16416 - 16736 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:50:47,417 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 14:50:52,442 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16416 - 16736 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:50:52,442 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16416 - 16736 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-11-01 14:50:52,706 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:50:52,706 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16416 - 16736 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:54:22,963 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:54:22,964 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:54:27,638 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:54:27,642 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:54:29,300 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:54:29,300 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:54:29,301 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="9017692d7efe2fff6ae270ed62be1f7d")> ------------------------[0m
+2020-11-01 14:54:29,303 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:54:29,303 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:54:29,355 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//*[@id="top_login_frame"][0m
+2020-11-01 14:54:29,355 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17460 - 17556 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 14:54:30,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 14:54:30,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 17460 - 17556 - autoUI-2020_11_01 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-11-01 14:54:30,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-11-01 14:54:30,498 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17460 - 17556 - autoUI-2020_11_01 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:54:31,457 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-11-01 14:54:36,501 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17460 - 17556 - autoUI-2020_11_01 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-11-01 14:54:36,502 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17460 - 17556 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-11-01 14:54:36,791 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:54:36,791 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17460 - 17556 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 14:57:33,033 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 14:57:33,034 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 14:57:37,220 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 14:57:37,222 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 14:57:39,037 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 14:57:39,037 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 14:57:39,037 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="a99819829d6687d82774c3b2e4220317")> ------------------------[0m
+2020-11-01 14:57:39,039 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 14:57:39,039 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 14:57:39,100 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//*[@id="top_login_frame"][0m
+2020-11-01 14:57:39,101 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 8936 - 16840 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 14:57:40,176 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 14:57:40,176 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 8936 - 16840 - autoUI-2020_11_01 - DEBUG: [35m[1mxpath=>//*[@id="top_login_frame"][0m
+2020-11-01 14:57:40,177 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 8936 - 16840 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-11-01 14:57:40,323 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 14:57:40,323 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 8936 - 16840 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 15:00:17,563 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 15:00:17,566 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 15:00:21,845 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 15:00:21,849 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 15:00:24,579 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 15:00:24,581 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 15:00:24,581 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="330e6d46cda77bee9b2938ca4d0ff2cf")> ------------------------[0m
+2020-11-01 15:00:24,585 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 15:00:24,585 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 15:00:24,585 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 15:00:24,637 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//*[@id="top_login_frame"][0m
+2020-11-01 15:00:24,638 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19076 - 17608 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 15:00:25,728 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 15:00:25,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 19076 - 17608 - autoUI-2020_11_01 - DEBUG: [35m[1mxpath=>//*[@id="top_login_frame"][0m
+2020-11-01 15:00:25,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="top_login_frame"][0m
+2020-11-01 15:00:25,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19076 - 17608 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 15:00:26,759 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-11-01 15:00:31,794 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19076 - 17608 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="top_login_frame"] 失败！！！[0m
+2020-11-01 15:00:31,795 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19076 - 17608 - autoUI-2020_11_01 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-11-01 15:00:32,114 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 15:00:32,114 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19076 - 17608 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 15:04:55,959 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 15:04:55,961 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 15:05:00,434 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 15:05:00,436 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 15:05:02,837 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 15:05:02,838 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 15:05:02,838 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="3c0ef79be2ef1cb035d617eea88f8595")> ------------------------[0m
+2020-11-01 15:05:02,847 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 15:05:02,847 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 15:05:02,847 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 15:05:03,036 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 15:05:03,036 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17872 - 13468 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:23:40,606 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:23:40,608 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:23:45,285 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:23:45,286 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:23:46,816 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:23:46,816 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:23:46,817 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="c00e4bd468cffdd9f8aa6c197f05822d")> ------------------------[0m
+2020-11-01 16:23:46,819 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:23:46,820 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:23:46,820 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:23:46,963 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:23:46,963 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16128 - 8888 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:25:02,836 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:25:02,838 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:25:07,341 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:25:07,342 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:25:08,869 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:25:08,870 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:25:08,870 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="00e3337624cb3405a917b469c4b2b91b")> ------------------------[0m
+2020-11-01 16:25:08,872 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:25:08,872 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:25:08,872 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:25:09,051 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:25:09,052 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16668 - 3460 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:26:12,013 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:26:12,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:26:16,007 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:26:16,009 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:26:17,649 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:26:17,650 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:26:17,650 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="99e75d914e57ba93cd98ae8e9fe2c6b3")> ------------------------[0m
+2020-11-01 16:26:17,652 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:26:17,652 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:26:17,652 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:26:22,750 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19468 - 1752 - autoUI-2020_11_01 - ERROR: [31m[1merror: no such "xpath=>//*[@id="top_login_frame"]"[0m
+2020-11-01 16:26:22,751 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a[0m
+2020-11-01 16:26:33,778 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19468 - 1752 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a,失败！！！[0m
+2020-11-01 16:26:33,906 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:26:33,906 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19468 - 1752 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:31:25,873 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:31:25,877 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:31:29,943 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:31:29,945 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:31:48,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:31:48,368 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:31:48,368 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="8bd54a71c9fdf44c366ba610673c0cda")> ------------------------[0m
+2020-11-01 16:31:48,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:31:48,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:31:48,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:31:59,475 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13620 - 16252 - autoUI-2020_11_01 - ERROR: [31m[1merror: found "xpath=>//*[@id="top_login_frame"]" timeout！[0m
+2020-11-01 16:31:59,475 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a[0m
+2020-11-01 16:32:10,524 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13620 - 16252 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a,失败！！！[0m
+2020-11-01 16:32:10,658 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:32:10,659 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13620 - 16252 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:36:44,664 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:36:44,666 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:36:48,905 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:36:48,908 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:36:51,232 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:36:51,233 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:36:51,233 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="148f37c019f062f3b86e2b18ce8957b4")> ------------------------[0m
+2020-11-01 16:36:51,235 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:36:51,236 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:36:51,236 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:37:01,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 15324 - 15152 - autoUI-2020_11_01 - ERROR: [31m[1merror: found "//iframe[starts-with(@id, 'top_login_frame')]" timeout！[0m
+2020-11-01 16:37:01,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a[0m
+2020-11-01 16:37:12,630 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 15324 - 15152 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>/html/body/div[2]/div/div[3]/a,失败！！！[0m
+2020-11-01 16:37:12,783 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:37:12,784 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15324 - 15152 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:39:01,826 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:39:01,828 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:39:06,084 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:39:06,087 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:39:07,696 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:39:07,697 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:39:07,697 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="ead9e66e350c260524d7d74433f0f377")> ------------------------[0m
+2020-11-01 16:39:07,699 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:39:07,699 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:39:07,699 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:39:07,743 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m期望值：True[0m
+2020-11-01 16:39:07,743 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m实际值：False[0m
+2020-11-01 16:39:07,743 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16412 - 17560 - autoUI-2020_11_01 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-01 16:39:08,846 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-11-01 16:39:08,958 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:39:08,958 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16412 - 17560 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:40:00,954 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:40:00,956 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:40:05,685 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:40:05,687 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:40:07,261 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:40:07,262 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:40:07,262 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="f398b8fb32316463fd25ed9a45c323b7")> ------------------------[0m
+2020-11-01 16:40:07,264 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:40:07,264 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:40:07,264 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:40:07,324 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:40:07,324 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19816 - 7704 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:43:26,475 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:43:26,477 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:43:31,323 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:43:31,325 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:43:32,962 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:43:32,963 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:43:32,963 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="c8a1c228d2de7c191be45ab8bd6e450f")> ------------------------[0m
+2020-11-01 16:43:32,965 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:43:32,966 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:43:33,139 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:43:33,140 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14796 - 8624 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:43:59,384 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:43:59,385 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:44:04,049 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:44:04,051 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:44:06,038 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:44:06,038 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:44:06,039 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="554a030723cf6864bd2c7bf1e0137c8a")> ------------------------[0m
+2020-11-01 16:44:06,042 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:44:06,042 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:44:06,043 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:44:06,119 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:44:06,119 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15124 - 20248 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 16:48:44,714 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 16:48:44,715 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 16:48:49,559 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 16:48:49,562 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 16:48:51,087 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 16:48:51,088 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 16:48:51,088 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="0c2f32007508032ad3e1303c7651a46c")> ------------------------[0m
+2020-11-01 16:48:51,090 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 16:48:51,090 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 16:48:51,090 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 16:49:02,201 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 20724 - 17032 - autoUI-2020_11_01 - ERROR: [31m[1merror: found "//iframe[starts-with(@id, 'top_login_frame')]" timeout！[0m
+2020-11-01 16:49:02,206 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 16:49:02,206 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 20724 - 17032 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:21:27,438 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:21:27,440 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:21:32,167 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:21:32,169 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:21:34,352 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:21:34,352 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:21:34,353 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="4c2e1ef050aeae142baf530a0ae84229")> ------------------------[0m
+2020-11-01 23:21:34,354 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:21:34,355 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:21:34,355 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:21:35,186 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:21:35,223 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']//@href[0m
+2020-11-01 23:21:50,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17200 - 9512 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>//div[@class='tc-lo-main height515']//@href,失败！！！[0m
+2020-11-01 23:21:51,219 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:21:51,220 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17200 - 9512 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:22:56,056 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:22:56,057 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:23:00,147 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:23:00,149 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:23:01,570 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:23:01,571 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:23:01,571 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="19b6551a735e52ac1035a636afd9d7af")> ------------------------[0m
+2020-11-01 23:23:01,574 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:23:01,574 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:23:01,574 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:23:02,394 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:23:02,430 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']//@href[0m
+2020-11-01 23:23:12,650 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 4036 - 17332 - autoUI-2020_11_01 - ERROR: [31m[1m点击页面元素:xpath=>//div[@class='tc-lo-main height515']//@href,失败！！！[0m
+2020-11-01 23:23:12,790 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:23:12,791 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4036 - 17332 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:27:54,767 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:27:54,769 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:27:58,816 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:27:58,818 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:28:00,462 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:28:00,462 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:28:00,463 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="08238eb71a67a8ec434503d7a8927688")> ------------------------[0m
+2020-11-01 23:28:00,464 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:28:00,465 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:28:00,465 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:28:01,337 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:28:01,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:28:01,831 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:28:01,986 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[1]/input 输入值 lyj19564359[0m
+2020-11-01 23:28:02,104 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input[0m
+2020-11-01 23:28:02,235 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:28:02,236 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18532 - 3592 - autoUI-2020_11_01 - ERROR: [31m[1m,切换到主页面 失败！！！[0m
+2020-11-01 23:28:02,360 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:28:02,361 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18532 - 3592 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:30:37,923 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:30:37,925 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:30:42,066 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:30:42,067 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:30:43,761 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:30:43,762 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:30:43,762 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="9d5e91b65b15b8b775275e57f9a814ab")> ------------------------[0m
+2020-11-01 23:30:43,764 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:30:43,765 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:30:43,765 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:30:44,962 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:30:44,998 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:30:45,482 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:30:45,634 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input 输入值 lyj19564359[0m
+2020-11-01 23:30:45,788 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/p[0m
+2020-11-01 23:30:45,947 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:30:45,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21108 - 19216 - autoUI-2020_11_01 - ERROR: [31m[1m,切换到主页面 失败！！！[0m
+2020-11-01 23:30:46,090 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:30:46,092 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21108 - 19216 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:40:01,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:40:01,528 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:40:05,537 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:40:05,539 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:40:07,108 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:40:07,108 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:40:07,109 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="8a74e3846d8cb319f9bd64a6265c4f1a")> ------------------------[0m
+2020-11-01 23:40:07,110 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:40:07,111 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:40:07,111 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:40:08,292 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:40:08,333 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:40:08,791 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:40:08,923 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input 输入值 lyj19564359[0m
+2020-11-01 23:40:09,051 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/p[0m
+2020-11-01 23:40:09,198 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:40:09,210 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m期望值：True[0m
+2020-11-01 23:40:09,211 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m实际值：False[0m
+2020-11-01 23:40:09,211 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 4184 - 20976 - autoUI-2020_11_01 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-01 23:40:10,425 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-11-01 23:40:10,540 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:40:10,541 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 4184 - 20976 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:42:17,423 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:42:17,425 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:42:21,381 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:42:21,382 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:42:23,233 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:42:23,234 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:42:23,234 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="7706c617723a5874bf3a2213198cf3ab")> ------------------------[0m
+2020-11-01 23:42:23,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:42:23,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:42:23,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:42:24,069 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:42:24,107 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:42:24,562 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:42:24,705 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input 输入值 lyj19564359[0m
+2020-11-01 23:42:24,847 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/p[0m
+2020-11-01 23:42:24,998 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:42:25,005 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m期望值：True[0m
+2020-11-01 23:42:25,006 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:42:27,373 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m实际值：False[0m
+2020-11-01 23:42:27,373 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:42:27,499 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19644 - 9964 - autoUI-2020_11_01 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-01 23:42:28,524 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-11-01 23:42:28,632 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:42:28,633 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19644 - 9964 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:50:10,269 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:50:10,270 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:50:14,428 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:50:14,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:50:16,330 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:50:16,331 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:50:16,331 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="97596027bbc3d9f4f5d471982b1a2b24")> ------------------------[0m
+2020-11-01 23:50:16,333 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:50:16,334 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:50:16,334 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:50:17,197 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:50:17,241 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:50:17,887 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:50:18,044 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input 输入值 lyj19564359[0m
+2020-11-01 23:50:18,176 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/p[0m
+2020-11-01 23:50:18,318 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:50:18,325 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m期望值：True[0m
+2020-11-01 23:50:18,325 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:50:20,525 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m,获取页面元素:xpath=>//header[@class='pm--metabar']/div/div/div[5]/div/div[2]/div[2]/div[2]/a[0m
+2020-11-01 23:50:20,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13972 - 19156 - autoUI-2020_11_01 - ERROR: [31m[1m,页面元素的文本获取失败！！！[0m
+2020-11-01 23:50:20,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m实际值：False[0m
+2020-11-01 23:50:20,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:50:20,646 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m,获取页面元素:xpath=>//header[@class='pm--metabar']/div/div/div[5]/div/div[2]/div[2]/div[2]/a[0m
+2020-11-01 23:50:20,646 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13972 - 19156 - autoUI-2020_11_01 - ERROR: [31m[1m,页面元素的文本获取失败！！！[0m
+2020-11-01 23:50:20,646 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13972 - 19156 - autoUI-2020_11_01 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-01 23:50:21,686 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-11-01 23:50:21,793 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:50:21,794 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13972 - 19156 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-11-01 23:50:46,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-11-01 23:50:46,374 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-11-01 23:50:50,989 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1mMaximize the current window.[0m
+2020-11-01 23:50:50,992 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-11-01 23:50:52,535 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1mVisit the web url - http://www.woshipm.com/.[0m
+2020-11-01 23:50:52,535 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-11-01 23:50:52,536 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="6ade555936b43d5969e6cabc5d395030")> ------------------------[0m
+2020-11-01 23:50:52,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-11-01 23:50:52,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m正常登录测试用例[0m
+2020-11-01 23:50:52,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span[0m
+2020-11-01 23:50:53,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换页面表单:xpath=>//iframe[starts-with(@id, 'top_login_frame')][0m
+2020-11-01 23:50:53,413 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='tc-lo-main height515']/div[3][0m
+2020-11-01 23:50:53,888 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input 输入值 18144854885[0m
+2020-11-01 23:50:54,071 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能 - 页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input 输入值 lyj19564359[0m
+2020-11-01 23:50:54,218 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//div[@class='password-login-content wcc-small-form']/form/p[0m
+2020-11-01 23:50:54,364 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-11-01 23:50:54,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m期望值：True[0m
+2020-11-01 23:50:54,368 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:50:56,601 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能,获取页面元素:xpath=>//header[@class='pm--metabar']/div/div/div[5]/div/div[2]/div[2]/div[2]/a[0m
+2020-11-01 23:50:56,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21972 - 22388 - autoUI-2020_11_01 - ERROR: [31m[1m用户管理页面_验证登录功能,页面元素的文本获取失败！！！[0m
+2020-11-01 23:50:56,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m实际值：False[0m
+2020-11-01 23:50:56,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能 - 鼠标悬停操作[0m
+2020-11-01 23:50:56,705 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m用户管理页面_验证登录功能,获取页面元素:xpath=>//header[@class='pm--metabar']/div/div/div[5]/div/div[2]/div[2]/div[2]/a[0m
+2020-11-01 23:50:56,715 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21972 - 22388 - autoUI-2020_11_01 - ERROR: [31m[1m用户管理页面_验证登录功能,页面元素的文本获取失败！！！[0m
+2020-11-01 23:50:56,716 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21972 - 22388 - autoUI-2020_11_01 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-01 23:50:57,778 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-11-01 23:50:57,895 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-11-01 23:50:57,896 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21972 - 22388 - autoUI-2020_11_01 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m

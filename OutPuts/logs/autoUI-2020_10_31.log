@@ -1,0 +1,730 @@
+2020-10-31 00:38:45,986 - D:\CodeBase\auto\autoUI\utils\logger.py [line:133] - 15280 - 4232 - autoUI-2020_10_31 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-31 00:38:45,987 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 15280 - 4232 - autoUI-2020_10_31 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-31 00:38:45,988 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 15280 - 4232 - autoUI-2020_10_31 - DEBUG: [35m[1mOperation System - Windows[0m
+2020-10-31 00:39:18,480 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 10884 - 7752 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:39:18,480 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 10884 - 7752 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:39:18,481 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 10884 - 7752 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:39:18,481 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 10884 - 7752 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:39:18,481 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 10884 - 7752 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 00:40:02,961 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 14624 - 6188 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:40:02,962 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 14624 - 6188 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:40:02,962 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 14624 - 6188 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:40:02,962 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 14624 - 6188 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:40:02,962 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 14624 - 6188 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 00:41:07,723 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 15120 - 15176 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:41:07,723 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 15120 - 15176 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:41:07,723 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 15120 - 15176 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:41:07,724 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 15120 - 15176 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:41:07,724 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 15120 - 15176 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 00:41:47,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 8636 - 10820 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:41:47,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 8636 - 10820 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:41:47,595 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 8636 - 10820 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:41:47,595 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 8636 - 10820 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:41:47,595 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 8636 - 10820 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 00:44:12,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 15108 - 13860 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:44:12,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 15108 - 13860 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:44:12,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 15108 - 13860 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:44:12,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 15108 - 13860 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:44:12,594 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 15108 - 13860 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 00:47:22,496 - D:\CodeBase\auto\autoUI\utils\logger.py [line:133] - 13064 - 14596 - autoUI-2020_10_31 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-31 00:47:22,496 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 13064 - 14596 - autoUI-2020_10_31 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-31 00:47:22,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 13064 - 14596 - autoUI-2020_10_31 - DEBUG: [35m[1mOperation System - Windows[0m
+2020-10-31 00:47:50,171 - D:\CodeBase\auto\autoUI\utils\logger.py [line:133] - 2880 - 9724 - autoUI-2020_10_31 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-31 00:47:50,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 2880 - 9724 - autoUI-2020_10_31 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-31 00:47:50,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 2880 - 9724 - autoUI-2020_10_31 - DEBUG: [35m[1mOperation System - Windows[0m
+2020-10-31 00:48:16,828 - D:\CodeBase\auto\autoUI\utils\logger.py [line:133] - 8240 - 1164 - autoUI-2020_10_31 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-31 00:48:16,829 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 8240 - 1164 - autoUI-2020_10_31 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-31 00:48:16,830 - D:\CodeBase\auto\autoUI\utils\logger.py [line:141] - 8240 - 1164 - autoUI-2020_10_31 - DEBUG: [35m[1mOperation System - Windows[0m
+2020-10-31 00:49:29,243 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 13284 - 9556 - autoUI-2020_10_31 - INFO: [32m[1m12334[0m
+2020-10-31 00:49:29,243 - D:/CodeBase/auto/autoUI/utils/logger.py [line:129] - 13284 - 9556 - autoUI-2020_10_31 - WARNING: [33m异常[0m
+2020-10-31 00:49:29,244 - D:/CodeBase/auto/autoUI/utils/logger.py [line:137] - 13284 - 9556 - autoUI-2020_10_31 - ERROR: [31m[1myic[0m
+2020-10-31 00:49:29,244 - D:/CodeBase/auto/autoUI/utils/logger.py [line:141] - 13284 - 9556 - autoUI-2020_10_31 - DEBUG: [35m[1m官方调式[0m
+2020-10-31 00:49:29,244 - D:/CodeBase/auto/autoUI/utils/logger.py [line:133] - 13284 - 9556 - autoUI-2020_10_31 - INFO: [32m[1mD:/CodeBase/auto/autoUI/utils[0m
+2020-10-31 02:07:36,990 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:07:41,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:07:41,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m-------------------- <Page.Plugs.BasePage.BasePage object at 0x000002679401E438> ------------------------[0m
+2020-10-31 02:07:43,306 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:07:43,306 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:07:43,406 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:07:43,406 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14992 - 13772 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:18:04,305 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14628 - 1368 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:18:08,801 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14628 - 1368 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:18:08,802 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14628 - 1368 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001F758DAADD8>[0m
+2020-10-31 02:18:08,951 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14628 - 1368 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:19:14,601 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:19:19,193 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:19:19,193 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000024D17236B00>[0m
+2020-10-31 02:19:20,862 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:19:20,862 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:19:20,863 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:19:20,863 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 6516 - 13684 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:19:20,863 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:19:20,925 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:19:21,758 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 02:19:21,758 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 6516 - 13684 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 02:19:21,759 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 02:19:32,803 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 6516 - 13684 - autoUI-2020_10_31 - ERROR: [31m[1mMessage: 
+[0m
+2020-10-31 02:19:32,803 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 6516 - 13684 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '/html/body/div[2]/div/div[3]/a') 失败！！！[0m
+2020-10-31 02:19:32,804 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 02:19:43,836 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 6516 - 13684 - autoUI-2020_10_31 - ERROR: [31m[1mMessage: 
+[0m
+2020-10-31 02:19:43,836 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 6516 - 13684 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a'),失败！！！[0m
+2020-10-31 02:19:43,965 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 6516 - 13684 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 02:19:43,968 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:19:43,969 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 6516 - 13684 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:34:38,468 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:34:43,042 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:34:43,043 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x00000283B683CCC0>[0m
+2020-10-31 02:34:44,610 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:34:44,610 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:34:44,611 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:34:44,611 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9744 - 12156 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:34:44,611 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:34:44,661 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:34:45,397 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 02:34:45,431 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:34:45,431 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9744 - 12156 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 02:34:45,432 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 02:34:45,462 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:34:45,471 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 9744 - 12156 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 02:34:45,614 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9744 - 12156 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 02:34:45,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:34:45,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9744 - 12156 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:39:51,052 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:39:55,806 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:39:55,807 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001833C346908>[0m
+2020-10-31 02:39:57,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:39:57,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:39:57,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:39:57,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 15688 - 14696 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:39:57,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:39:57,406 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:39:58,190 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 02:39:58,218 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:39:58,219 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 15688 - 14696 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 02:39:58,219 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 02:39:58,244 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:39:58,251 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 15688 - 14696 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 02:39:58,392 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 15688 - 14696 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 02:39:58,394 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:39:58,394 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15688 - 14696 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:48:55,713 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:49:00,519 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:49:00,519 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002A65620AF28>[0m
+2020-10-31 02:49:02,171 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:49:02,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:49:02,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:49:02,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 12828 - 16940 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:49:02,172 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:49:02,219 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:49:02,995 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 02:49:03,030 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:49:03,031 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 12828 - 16940 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 02:49:03,031 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 02:49:03,063 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:49:03,075 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 12828 - 16940 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 02:49:03,234 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 12828 - 16940 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 02:49:03,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:49:03,238 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 12828 - 16940 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:51:54,824 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:51:59,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:51:59,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002BF8EA1AE80>[0m
+2020-10-31 02:52:01,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:52:01,009 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:52:01,010 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:52:01,010 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 17400 - 16712 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:52:01,011 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:52:01,060 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:52:01,836 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 02:52:01,869 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:52:01,870 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17400 - 16712 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 02:52:02,067 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 17400 - 16712 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 02:52:02,068 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:52:02,069 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17400 - 16712 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 02:57:13,988 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 02:57:18,558 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 02:57:18,559 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002969DE6B780>[0m
+2020-10-31 02:57:20,197 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 02:57:20,197 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 02:57:20,197 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:57:20,198 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 15316 - 17008 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:57:20,198 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 02:57:20,232 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 02:57:21,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 02:57:21,035 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 02:57:21,035 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 15316 - 17008 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 02:57:21,173 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 02:57:21,174 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15316 - 17008 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:00:28,297 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:00:32,870 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:00:32,870 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002616FABB240>[0m
+2020-10-31 03:00:34,388 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:00:34,388 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:00:34,388 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:00:34,389 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18152 - 8824 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:00:34,389 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:00:34,427 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 03:00:35,243 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 03:00:35,271 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 03:00:35,271 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18152 - 8824 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 03:00:35,406 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:00:35,407 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18152 - 8824 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:05:18,434 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:05:23,006 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:05:23,007 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000028F4E2AB908>[0m
+2020-10-31 03:05:24,575 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:05:24,575 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:05:24,575 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:05:24,575 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16872 - 18076 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:05:24,576 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:05:24,607 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 03:05:25,397 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 03:05:25,427 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 03:05:25,427 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16872 - 18076 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 03:05:25,428 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 03:05:25,445 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 03:05:25,455 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16872 - 18076 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 03:05:25,582 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:05:25,583 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16872 - 18076 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:09:45,991 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:09:50,686 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:09:50,686 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002B1B1E43518>[0m
+2020-10-31 03:09:52,463 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:09:52,463 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:09:52,463 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:09:52,463 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 19108 - 19092 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:09:52,464 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:09:52,499 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 03:09:53,309 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 03:09:53,342 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 03:09:53,343 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 19108 - 19092 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 03:09:53,343 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 03:09:53,362 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 03:09:53,373 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19108 - 19092 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 03:09:53,500 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:09:53,502 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19108 - 19092 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:19:04,756 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:19:09,691 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:19:09,692 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000026AD4DDBF28>[0m
+2020-10-31 03:19:11,348 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:19:11,349 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:19:11,349 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:19:11,349 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16496 - 18896 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:19:11,349 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:19:11,350 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16496 - 18896 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:19:11,350 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 03:19:11,350 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16496 - 18896 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:19:11,351 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16496 - 18896 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 03:19:11,527 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:19:11,527 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16496 - 18896 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:23:56,263 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:24:00,889 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:24:00,890 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001C91218CEB8>[0m
+2020-10-31 03:24:02,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:24:02,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:24:02,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:24:02,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18564 - 13248 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:24:02,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:24:02,618 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18564 - 13248 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:24:02,618 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 03:24:02,618 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18564 - 13248 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:24:02,618 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18564 - 13248 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 03:24:02,779 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18564 - 13248 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 03:24:02,781 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:24:02,782 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18564 - 13248 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:25:47,835 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:25:52,676 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 03:25:52,677 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002BC0F756FD0>[0m
+2020-10-31 03:25:54,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 03:25:54,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 03:25:54,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:25:54,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 17768 - 19820 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:25:54,510 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 03:25:54,510 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17768 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:25:54,510 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 03:25:54,510 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17768 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 03:25:54,511 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 17768 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 03:25:54,664 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 03:25:54,664 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 17768 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 03:36:54,045 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21680 - 21672 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 03:50:55,611 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21780 - 21756 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 04:01:44,097 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 04:01:52,955 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 04:01:52,956 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002230B885F28>[0m
+2020-10-31 04:02:01,341 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 04:02:01,341 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 04:02:01,342 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:02:01,342 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18444 - 18968 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:02:01,342 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:02:09,117 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18444 - 18968 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 04:02:09,119 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 04:02:09,125 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18444 - 18968 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 04:02:09,126 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18444 - 18968 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 04:02:09,448 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 04:02:09,448 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18444 - 18968 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 04:03:43,425 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 04:03:47,410 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 04:03:47,410 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000001A171D89B70>[0m
+2020-10-31 04:03:53,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 04:03:53,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 04:03:53,237 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:03:53,238 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 21324 - 22092 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:03:53,238 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 04:04:03,751 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21324 - 22092 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 04:04:03,754 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 04:04:03,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21324 - 22092 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 04:04:03,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21324 - 22092 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 04:04:03,992 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 04:04:03,992 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21324 - 22092 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:33:09,888 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:33:14,620 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:33:14,621 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000027A7F09C588>[0m
+2020-10-31 15:33:16,211 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 15:33:16,212 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 15:33:16,212 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:33:16,212 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 10168 - 8840 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:33:16,212 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:33:16,213 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:33:16,254 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 15:33:16,254 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:33:17,086 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('id', 'top_login_frame')[0m
+2020-10-31 15:33:17,087 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "top_login_frame" by "id"!][0m
+2020-10-31 15:33:17,114 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 15:33:17,115 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 10168 - 8840 - autoUI-2020_10_31 - DEBUG: [35m[1m('id', 'top_login_frame')[0m
+2020-10-31 15:33:17,115 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('id', 'top_login_frame')[0m
+2020-10-31 15:33:17,115 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "top_login_frame" by "id"!][0m
+2020-10-31 15:33:17,132 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('id', 'top_login_frame'):可见，共耗时0s [0m
+2020-10-31 15:33:17,132 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "top_login_frame" by "id"!][0m
+2020-10-31 15:33:17,140 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 10168 - 8840 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 15:33:17,313 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 15:33:17,313 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 10168 - 8840 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:39:43,930 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:39:48,407 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:39:48,407 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x000002A500AE8CC0>[0m
+2020-10-31 15:39:49,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 15:39:49,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 15:39:49,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:39:49,949 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 2172 - 4508 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:39:49,949 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:39:49,949 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:39:49,983 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 15:39:49,984 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:39:50,749 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:39:50,749 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:39:50,781 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:39:50,781 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 2172 - 4508 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:39:50,781 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:39:50,782 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:39:50,801 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:39:50,801 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:39:50,811 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 2172 - 4508 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 15:39:50,947 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 15:39:50,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2172 - 4508 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:44:42,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:44:47,040 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:44:47,040 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<Page.Plugs.BasePage.BasePage object at 0x0000021CB39F5EB8>[0m
+2020-10-31 15:44:48,525 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 15:44:48,525 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 15:44:48,525 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:44:48,525 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 2060 - 1376 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:44:48,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:44:48,526 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:44:48,569 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 15:44:48,570 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="app"]/header/div/div/div[4]/span" by "xpath"!][0m
+2020-10-31 15:44:49,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:44:49,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:44:49,401 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:44:49,402 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 2060 - 1376 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:44:49,402 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:44:49,403 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:44:49,420 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:44:49,421 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1mstart find the elements "//*[@id="top_login_frame"]" by "xpath"!][0m
+2020-10-31 15:44:49,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 2060 - 1376 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,切换页面表单 失败！！！[0m
+2020-10-31 15:44:49,578 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 15:44:49,579 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 2060 - 1376 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:47:29,304 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14076 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:47:33,844 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14076 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:47:33,844 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14076 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="50a07230ead4e5b7bef7d9911cca8398")>[0m
+2020-10-31 15:47:33,967 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14076 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:51:07,134 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15712 - 12476 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:51:11,732 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15712 - 12476 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:51:11,732 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15712 - 12476 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------(<selenium.webdriver.chrome.webdriver.WebDriver (session="b6bf5f996746c4b3971934b352794c3f")>, <Page.Plugs.BasePage.BasePage object at 0x0000024FBE3BD5F8>)[0m
+2020-10-31 15:51:11,845 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15712 - 12476 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:53:14,583 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15968 - 16096 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:53:19,140 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15968 - 16096 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:53:19,140 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15968 - 16096 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="69e027b0d6466e589a79669c3a84e833")>[0m
+2020-10-31 15:53:19,251 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 15968 - 16096 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:54:46,076 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:54:50,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:54:50,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="f369faf42c8fe1c31a602390307e8f35")>[0m
+2020-10-31 15:54:52,304 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 15:54:52,304 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 15:54:52,305 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:54:52,305 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9104 - 12280 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:54:52,305 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:54:52,339 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 15:54:53,131 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:54:53,160 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:54:53,160 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9104 - 12280 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:54:53,161 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:54:53,177 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:54:53,206 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:54:53,207 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9104 - 12280 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:54:53,207 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:54:53,236 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '/html/body/div[2]/div/div[3]/a'):可见，共耗时0s [0m
+2020-10-31 15:54:53,583 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换到主页面[0m
+2020-10-31 15:54:53,585 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="nameInput"]') 输入值 18144854885[0m
+2020-10-31 15:55:15,718 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 9104 - 12280 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]') 失败！！！[0m
+2020-10-31 15:55:16,619 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-10-31 15:55:16,620 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 9104 - 12280 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 15:55:16,620 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 15:55:38,800 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 9104 - 12280 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]') 失败！！！[0m
+2020-10-31 15:55:39,685 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图成功，图片路径为: 登录页面_登录功能[0m
+2020-10-31 15:55:44,730 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 9104 - 12280 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="nameInput"]') 失败！！！[0m
+2020-10-31 15:55:44,730 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 9104 - 12280 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,页面元素输入失败！！！[0m
+2020-10-31 15:55:44,962 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 15:55:44,962 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 9104 - 12280 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 15:57:30,671 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 15:57:35,211 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 15:57:35,211 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="a6e05a322410642be2579b487941fff7")>[0m
+2020-10-31 15:57:36,687 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 15:57:36,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 15:57:36,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:57:36,688 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:57:36,689 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 15:57:36,728 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 15:57:37,487 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:57:37,518 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:57:37,518 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:57:37,518 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 15:57:37,536 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 15:57:37,569 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:57:37,569 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:57:37,569 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 15:57:37,601 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '/html/body/div[2]/div/div[3]/a'):可见，共耗时0s [0m
+2020-10-31 15:57:37,948 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="nameInput"]') 输入值 18144854885[0m
+2020-10-31 15:57:37,980 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 15:57:37,980 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 15:57:37,980 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 15:57:37,998 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 15:57:38,117 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="pwdInput"]') 输入值 lyj19564359[0m
+2020-10-31 15:57:38,151 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 15:57:38,151 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 15:57:38,152 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 15:57:38,170 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 15:57:38,272 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 15:57:38,272 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 15:57:38,272 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 15:57:38,313 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="loginTopSubmitInput"]'):可见，共耗时0s [0m
+2020-10-31 15:57:38,431 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换到主页面[0m
+2020-10-31 15:57:38,437 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m期望值：True[0m
+2020-10-31 15:57:58,605 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m实际值：False[0m
+2020-10-31 15:58:18,839 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 13396 - 12384 - autoUI-2020_10_31 - ERROR: [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-10-31 15:58:19,686 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m登录功能-正常测试-异常截图截图成功，图片路径为: 登录功能-正常测试-异常截图[0m
+2020-10-31 15:58:19,802 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 13396 - 12384 - autoUI-2020_10_31 - DEBUG: [35m[1m==================调式==================[0m
+2020-10-31 15:58:19,804 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 15:58:19,804 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 13396 - 12384 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 16:11:56,707 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 16:12:01,557 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 16:12:01,557 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="782ee03e0f55db6f0e6679d6833f874d")>[0m
+2020-10-31 16:12:03,153 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 16:12:03,153 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 16:12:03,154 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:12:03,154 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:12:03,154 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:12:03,189 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 16:12:03,978 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:12:04,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:12:04,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:12:04,026 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,059 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:12:04,060 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:12:04,060 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:12:04,090 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '/html/body/div[2]/div/div[3]/a'):可见，共耗时0s [0m
+2020-10-31 16:12:04,505 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="nameInput"]') 输入值 18144854885[0m
+2020-10-31 16:12:04,553 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,553 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 16:12:04,553 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 16:12:04,575 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,717 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="pwdInput"]') 输入值 lyj19564359[0m
+2020-10-31 16:12:04,755 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,755 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 16:12:04,755 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 16:12:04,778 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 16:12:04,913 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:12:04,913 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:12:04,913 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:12:04,962 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="loginTopSubmitInput"]'):可见，共耗时0s [0m
+2020-10-31 16:12:05,091 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-10-31 16:12:05,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m期望值：True[0m
+2020-10-31 16:12:05,099 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:12:05,100 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:12:25,538 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16676 - 14936 - autoUI-2020_10_31 - ERROR: [31m[1m,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a') 失败！！！[0m
+2020-10-31 16:12:26,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 16:12:26,441 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m实际值：True[0m
+2020-10-31 16:12:26,441 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 16676 - 14936 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:12:26,441 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:12:46,770 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 16676 - 14936 - autoUI-2020_10_31 - ERROR: [31m[1m,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a') 失败！！！[0m
+2020-10-31 16:12:47,609 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 16:12:47,619 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m 结束执行 test_login_success 测试用例， 测试结果 --- PASS [0m
+2020-10-31 16:12:48,504 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m登录功能-正常测试-正常截图截图成功，图片路径为: 登录功能-正常测试-正常截图[0m
+2020-10-31 16:12:48,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 16:12:48,509 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 16676 - 14936 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 16:23:17,564 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 16:23:22,139 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 16:23:22,139 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="69cb480d997df0ba624b724efe6c9208")>[0m
+2020-10-31 16:23:23,818 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 16:23:23,819 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 16:23:23,820 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:23:23,820 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:23:23,821 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 16:23:23,864 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'):可见，共耗时0s [0m
+2020-10-31 16:23:24,726 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换页面表单:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:23:24,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 16:23:24,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:23:24,757 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="top_login_frame"]')[0m
+2020-10-31 16:23:24,776 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="top_login_frame"]'):可见，共耗时0s [0m
+2020-10-31 16:23:24,811 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:23:24,811 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:23:24,811 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '/html/body/div[2]/div/div[3]/a')[0m
+2020-10-31 16:23:24,846 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '/html/body/div[2]/div/div[3]/a'):可见，共耗时0s [0m
+2020-10-31 16:23:25,245 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="nameInput"]') 输入值 18144854885[0m
+2020-10-31 16:23:25,280 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 16:23:25,280 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 16:23:25,280 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="nameInput"]')[0m
+2020-10-31 16:23:25,301 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="nameInput"]'):可见，共耗时0s [0m
+2020-10-31 16:23:25,433 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,页面元素:('xpath', '//*[@id="pwdInput"]') 输入值 lyj19564359[0m
+2020-10-31 16:23:25,465 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 16:23:25,465 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 16:23:25,465 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="pwdInput"]')[0m
+2020-10-31 16:23:25,485 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="pwdInput"]'):可见，共耗时0s [0m
+2020-10-31 16:23:25,607 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:23:25,608 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:23:25,608 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="loginTopSubmitInput"]')[0m
+2020-10-31 16:23:25,646 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,等待页面元素:('xpath', '//*[@id="loginTopSubmitInput"]'):可见，共耗时0s [0m
+2020-10-31 16:23:25,776 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,切换到主页面 - switch back to default iframe[0m
+2020-10-31 16:23:25,783 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m期望值：True[0m
+2020-10-31 16:23:25,783 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:23:25,783 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:23:56,041 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18100 - 3504 - autoUI-2020_10_31 - ERROR: [31m[1m,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a') 失败！！！[0m
+2020-10-31 16:23:56,961 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 16:23:56,972 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m实际值：True[0m
+2020-10-31 16:23:56,972 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18100 - 3504 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:23:56,973 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a')[0m
+2020-10-31 16:24:27,123 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18100 - 3504 - autoUI-2020_10_31 - ERROR: [31m[1m,等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[5]/div/div[2]/div[2]/div[2]/a') 失败！！！[0m
+2020-10-31 16:24:28,008 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 16:24:28,017 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m 结束执行 test_login_success 测试用例， 测试结果 --- PASS [0m
+2020-10-31 16:24:28,919 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m登录功能-正常测试-正常截图截图成功，图片路径为: 登录功能-正常测试-正常截图[0m
+2020-10-31 16:24:28,926 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 16:24:28,927 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18100 - 3504 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:04:50,773 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22548 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:09:29,854 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:09:29,857 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:09:34,018 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:09:34,020 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:09:35,772 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:09:35,772 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:09:35,774 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:09:35,774 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:09:35,774 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 22:09:35,775 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 23020 - 22724 - autoUI-2020_10_31 - DEBUG: [35m[1m('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 22:09:35,775 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span')[0m
+2020-10-31 22:09:35,775 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23020 - 22724 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 22:09:35,786 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 22:09:35,787 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23020 - 22724 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span') 失败！！！[0m
+2020-10-31 22:09:35,787 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23020 - 22724 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:('xpath', '//*[@id="app"]/header/div/div/div[4]/span'),失败！！！[0m
+2020-10-31 22:09:35,936 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:09:35,937 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23020 - 22724 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:10:49,077 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:10:49,079 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:10:53,057 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:10:53,058 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:10:54,612 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:10:54,612 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:10:54,614 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:10:54,614 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:10:54,615 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:10:54,615 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 21384 - 21748 - autoUI-2020_10_31 - DEBUG: [35m[1mxpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:10:54,615 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:10:54,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21384 - 21748 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:10:54,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 22:10:54,616 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21384 - 21748 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:10:54,617 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 21384 - 21748 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:10:54,748 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:10:54,748 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 21384 - 21748 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:11:58,483 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:11:58,486 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:12:02,520 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:12:02,522 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:12:05,450 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:12:05,450 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:12:05,452 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:12:05,453 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:12:05,453 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:12:05,453 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 22760 - 19820 - autoUI-2020_10_31 - DEBUG: [35m[1mxpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:12:05,453 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:12:05,454 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22760 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:12:05,454 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 22:12:05,454 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22760 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:12:05,455 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22760 - 19820 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:12:05,582 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:12:05,582 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22760 - 19820 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:13:50,750 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:13:50,752 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:13:54,805 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:13:54,807 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:13:56,971 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:13:56,972 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:13:56,974 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:13:56,974 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:13:56,974 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:13:56,975 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 23028 - 8552 - autoUI-2020_10_31 - DEBUG: [35m[1mxpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:13:56,975 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:13:56,975 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23028 - 8552 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能 - 等待页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:13:56,976 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能截图 失败[0m
+2020-10-31 22:13:56,976 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23028 - 8552 - autoUI-2020_10_31 - ERROR: [31m[1m登录页面_登录功能,查找页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span 失败！！！[0m
+2020-10-31 22:13:56,976 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23028 - 8552 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:13:57,122 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:13:57,123 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23028 - 8552 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:17:27,891 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:17:27,894 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:17:31,904 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:17:31,907 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:17:33,849 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:17:33,849 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:17:33,851 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:17:33,851 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:17:33,852 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:17:33,852 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 14884 - 20632 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:17:33,852 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:17:33,852 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 14884 - 20632 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:17:33,853 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:17:33,853 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 14884 - 20632 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:17:33,853 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 14884 - 20632 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:17:33,985 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:17:33,986 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 14884 - 20632 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:18:12,055 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:18:12,058 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:18:16,637 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:18:16,638 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:18:18,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:18:18,367 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:18:18,369 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:18:18,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:18:18,370 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:18:18,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 7172 - 22880 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:18:18,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:18:18,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 7172 - 22880 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:18:18,371 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:18:18,372 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 7172 - 22880 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:18:18,372 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 7172 - 22880 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:18:18,507 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:18:18,507 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 7172 - 22880 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:24:59,893 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:24:59,896 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:25:04,395 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:25:04,397 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:25:06,011 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:25:06,011 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:25:06,013 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:25:06,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:25:06,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:25:06,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 19800 - 21136 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:25:06,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:25:06,014 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19800 - 21136 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:25:06,015 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:25:06,015 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19800 - 21136 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:25:06,015 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 19800 - 21136 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:25:06,151 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:25:06,152 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 19800 - 21136 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:26:19,081 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:26:19,084 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:26:23,131 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:26:23,134 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:26:24,725 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:26:24,726 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m----------------------------------------------------------------------------------None[0m
+2020-10-31 22:26:24,728 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:26:24,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:26:24,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:26:24,729 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 22904 - 17192 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:26:24,730 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:26:24,730 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22904 - 17192 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:26:24,730 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:26:24,731 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22904 - 17192 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:26:24,731 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 22904 - 17192 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:26:24,885 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:26:24,886 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 22904 - 17192 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:29:34,201 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:29:34,203 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:29:38,267 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:29:38,268 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:29:39,837 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:29:39,837 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m-------------------- None ------------------------[0m
+2020-10-31 22:29:39,839 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:29:39,839 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:29:39,839 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:29:39,839 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 18804 - 23120 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:29:39,840 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:29:39,840 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18804 - 23120 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:29:39,840 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:29:39,840 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18804 - 23120 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:29:39,841 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 18804 - 23120 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:29:39,972 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:29:39,972 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 18804 - 23120 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:31:08,794 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:31:08,797 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:31:13,296 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:31:13,297 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:31:14,641 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:31:14,641 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m-------------------- None ------------------------[0m
+2020-10-31 22:31:14,643 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:31:14,644 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:31:14,644 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:31:14,644 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 23156 - 21656 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:31:14,644 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:31:14,644 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23156 - 21656 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:31:14,645 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m截图 失败[0m
+2020-10-31 22:31:14,645 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23156 - 21656 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:31:14,645 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23156 - 21656 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:31:14,770 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:31:14,770 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23156 - 21656 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:35:01,240 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:35:01,242 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:35:05,761 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:35:05,763 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:35:05,766 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:35:09,925 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:35:09,927 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:35:11,425 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:35:11,426 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="0259c96e26918e6b104a5c05b9822e31")> ------------------------[0m
+2020-10-31 22:35:11,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:35:11,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:35:11,429 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:35:11,430 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 23232 - 22540 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:35:11,430 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:35:11,430 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23232 - 22540 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:35:12,129 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 22:35:12,129 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23232 - 22540 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:35:12,129 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23232 - 22540 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:35:14,307 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:35:14,308 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23232 - 22540 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m
+2020-10-31 22:43:43,101 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m==========开始 UI自动化项目 执行测试===========[0m
+2020-10-31 22:43:43,103 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1mYou had select Chrome - browser.[0m
+2020-10-31 22:43:47,869 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1mMaximize the current window.[0m
+2020-10-31 22:43:47,871 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1mSet implicitly wait 10 seconds.[0m
+2020-10-31 22:43:49,493 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1mVisit the web site - http://www.woshipm.com/.[0m
+2020-10-31 22:43:49,493 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m==========开始执行测试用例集===========[0m
+2020-10-31 22:43:49,493 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m-------------------- <selenium.webdriver.chrome.webdriver.WebDriver (session="b257e9f2c7e090128d912400733f10a6")> ------------------------[0m
+2020-10-31 22:43:49,495 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m 执行 test_login_success 测试用例 [0m
+2020-10-31 22:43:49,496 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m正常登录测试用例[0m
+2020-10-31 22:43:49,496 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m登录页面_登录功能,点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span[0m
+2020-10-31 22:43:49,496 - D:\CodeBase\auto\autoUI\utils\logger.py [line:140] - 23280 - 17232 - autoUI-2020_10_31 - DEBUG: [35m[1m登录页面_登录功能[0m
+2020-10-31 22:43:49,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m,查找页面元素:登录页面_登录功能[0m
+2020-10-31 22:43:49,497 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23280 - 17232 - autoUI-2020_10_31 - ERROR: [31m[1m - 等待页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:43:50,528 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m截图成功，图片路径为: [0m
+2020-10-31 22:43:50,545 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23280 - 17232 - autoUI-2020_10_31 - ERROR: [31m[1m,查找页面元素:登录页面_登录功能 失败！！！[0m
+2020-10-31 22:43:50,545 - D:\CodeBase\auto\autoUI\utils\logger.py [line:136] - 23280 - 17232 - autoUI-2020_10_31 - ERROR: [31m[1m点击页面元素:xpath=>//*[@id="app"]/header/div/div/div[4]/span,失败！！！[0m
+2020-10-31 22:43:50,759 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m==========结束执行测试用例集===========[0m
+2020-10-31 22:43:50,760 - D:\CodeBase\auto\autoUI\utils\logger.py [line:132] - 23280 - 17232 - autoUI-2020_10_31 - INFO: [32m[1m==========结束 UI自动化项目 测试===========[0m

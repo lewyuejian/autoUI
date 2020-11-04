@@ -1,0 +1,9 @@
+2020-10-30 23:29:53,259 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 3652 - 3992 - autoUI-2020_10_30 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-30 23:29:53,259 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 3652 - 3992 - autoUI-2020_10_30 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-30 23:29:53,260 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 3652 - 3992 - autoUI-2020_10_30 - DEBUG: [35m[1mOperation System - Windows[0m
+2020-10-30 23:31:05,176 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 13688 - 1700 - autoUI-2020_10_30 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-30 23:31:05,176 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 13688 - 1700 - autoUI-2020_10_30 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-30 23:31:05,177 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 13688 - 1700 - autoUI-2020_10_30 - DEBUG: [35m[1mOperation System - win32[0m
+2020-10-30 23:32:01,076 - D:\CodeBase\auto\autoUI\utils\logger.py [line:123] - 14212 - 7052 - autoUI-2020_10_30 - INFO: [32m[1m----------Operation System--------------------------[0m
+2020-10-30 23:32:01,076 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 14212 - 7052 - autoUI-2020_10_30 - DEBUG: [35m[1m('64bit', 'WindowsPE')[0m
+2020-10-30 23:32:01,077 - D:\CodeBase\auto\autoUI\utils\logger.py [line:131] - 14212 - 7052 - autoUI-2020_10_30 - DEBUG: [35m[1mOperation System - Windows[0m
