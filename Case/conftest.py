@@ -17,23 +17,23 @@ driver = None
 
 @pytest.fixture(scope='session')
 def project_session_start():
-    log.info("==========开始 UI自动化项目 执行测试===========")
+    log.logger.info("==========开始 UI自动化项目 执行测试===========")
     global driver
     be = BrowserEngine()
     driver = be.openBrowser()
     yield driver
-    log.info("==========结束 UI自动化项目 测试===========")
+    log.logger.info("==========结束 UI自动化项目 测试===========")
 
 @pytest.fixture(scope='module')
 def project_module_start():
-    log.info("==========开始 XX模块 执行测试===========")
+    log.logger.info("==========开始 XX模块 执行测试===========")
     global driver
     be = BrowserEngine()
     driver = be.openBrowser()
 
     yield driver
-
-    log.info("==========结束 XX模块 测试===========")
+    #be.quitBrowser()
+    log.logger.info("==========结束 XX模块 测试===========")
 
 @pytest.fixture()
 def project_func():

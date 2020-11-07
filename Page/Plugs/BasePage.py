@@ -48,9 +48,9 @@ class BasePage(object):
         filePath = images_dir + '{0}_{1}.png'.format(doc, time.strftime('%Y-%m-%d_%H_%M_%S', time.localtime()))
         try:
             self.driver.save_screenshot(filePath)
-            log.info('{0}截图成功，图片路径为: {0}'.format(doc, filePath))
+            log.logger.info('{0}截图成功，图片路径为: {0}'.format(doc, filePath))
         except:
-            log.info('{0}截图 失败'.format(doc))
+            log.logger.info('{0}截图 失败'.format(doc))
 
     def get_screen_as_file(self, func):
         u"""异常自动截图"""
@@ -72,11 +72,11 @@ class BasePage(object):
                 EC.visibility_of_element_located(locator))
             end = datetime.datetime.now()
             wait_time = (end - start).seconds
-            log.info('{0},等待页面元素:{1}:可见，共耗时{2}s '.format(doc, locator, wait_time))
+            log.logger.info('{0},等待页面元素:{1}:可见，共耗时{2}s '.format(doc, locator, wait_time))
         except TimeoutException as t:
-            log.error('{0} - 等待页面元素超时！'.format((locator), t))
+            log.logger.error('{0} - 等待页面元素超时！'.format((locator), t))
         except:
-            log.error('{0} - 等待页面元素:{1} 失败！！！'.format(doc, locator))
+            log.logger.error('{0} - 等待页面元素:{1} 失败！！！'.format(doc, locator))
             self.save_pictuer(doc)
 
     # 等待页面元素存在，不可见
@@ -88,103 +88,103 @@ class BasePage(object):
             )
             end = datetime.datetime.now()
             wait_time = (end - start).seconds
-            log.info('{0} - 等待页面元素存在:{1}:不可见，共耗时{2}'.format(doc, locator, wait_time))
+            log.logger.info('{0} - 等待页面元素存在:{1}:不可见，共耗时{2}'.format(doc, locator, wait_time))
         except TimeoutException as t:
-            log.error('{0} - 等待页面加载超时！'.format((locator), t))
+            log.logger.error('{0} - 等待页面加载超时！'.format((locator), t))
         except:
-            log.error('{0} - 等待页面元素:{1} 失败！！！'.format(doc, locator))
+            log.logger.error('{0} - 等待页面元素:{1} 失败！！！'.format(doc, locator))
             self.save_pictuer(doc)
 
 
     # 查找页面元素
     def get_element(self, driver, by, doc=''):
-        log.debug(by)
-        log.info('{0} - 查找页面元素:{1}'.format(doc, by))
+        log.logger.debug(by)
+        log.logger.info('{0} - 查找页面元素:{1}'.format(doc, by))
         try:
             self.wait_eleVisible(by, doc)
             return wd.find_element(driver, by)
         except:
-            log.error('{0},查找页面元素:{1} 失败！！！'.format(doc, by))
+            log.logger.error('{0},查找页面元素:{1} 失败！！！'.format(doc, by))
             raise (NoSuchElementException, TimeoutException)
 
 
     def click_element(self, driver, by, doc=''):
         #self.wait_eleVisible(way, doc)
-        log.info('{0} - 点击页面元素:{1}'.format(doc, by))
+        log.logger.info('{0} - 点击页面元素:{1}'.format(doc, by))
         try:
             element = wd.get_clickable_element(driver, by)
             element.click()
         except:
-            log.error('点击页面元素:{0},失败！！！'.format(by))
+            log.logger.error('点击页面元素:{0},失败！！！'.format(by))
             raise
 
     # 输入操作
     def input_element(self, driver, by, value, doc=''):
-        log.info('{0} - 页面元素:{1} 输入值 {2}'.format(doc, by, value))
+        log.logger.info('{0} - 页面元素:{1} 输入值 {2}'.format(doc, by, value))
         try:
             element = wd.get_clickable_element(driver, by)
             element.send_keys(value)
         except:
-            log.error('{0} - 页面元素输入失败！！！'.format(doc))
+            log.logger.error('{0} - 页面元素输入失败！！！'.format(doc))
             raise
 
     # 获取文本
     def get_element_text(self, driver, by, doc=''):
-        log.info('{0} - 获取页面元素:{1}'.format(doc, by))
+        log.logger.info('{0} - 获取页面元素:{1}'.format(doc, by))
         try:
             element = wd.find_element(driver, by).text
             return element
         except:
-            log.error('{0},页面元素的文本获取失败！！！'.format(doc))
+            log.logger.error('{0},页面元素的文本获取失败！！！'.format(doc))
             raise
 
 
     # 获取页面元素属性
     # TODO: 未修复bug，未加预期值
-    def get_element_attribute(self, driver, by, doc=''):
-        log.info('{0},获取页面元素属性:{1}'.format(doc, by))
+    def get_element_attribute(self, driver, by, name, doc=''):
+        log.logger.info('{0},获取页面元素属性:{1}'.format(doc, by))
         try:
-            element = wd.get_attribute_element(driver, by)
+            element = wd.get_attribute_element(driver, by, name)
             return element
         except:
-            log.error('{0},页面元素的属性获取 失败！！！'.format(doc))
+            log.logger.error('{0},页面元素的属性获取 失败！！！'.format(doc))
             raise
 
     # alter 处理
     def alter_action(self, driver, doc=''):
-        log.info('{0} - 处理页面的alter'.format(doc))
+        log.logger.info('{0} - 处理页面的alter'.format(doc))
         try:
             element = wd.get_alert_is_present(driver)
             content = element.text
-            log.info('{0} - alter的内容:{1}'.format(doc, content))
+            log.logger.info('{0} - alter的内容:{1}'.format(doc, content))
             # 接受alter
             element.accept()
             return content
         except:
-            log.error('{0} - 页面元素的alter获取 失败！！！'.format(doc))
+            log.logger.error('{0} - 页面元素的alter获取 失败！！！'.format(doc))
             raise
 
 
     def switch_iframe(self, driver, by, doc=''):
-        log.info('{0} - 切换页面表单:{1}'.format(doc, by))
+        log.logger.info('{0} - 切换页面表单:{1}'.format(doc, by))
         try:
 
             wd.get_switch_iframe_element(driver,by)
         except TimeoutException as t:
-            log.error('error: found "{}" timeout！'.format((by), t))
+            log.logger.error('error: found "{}" timeout！'.format((by), t))
         except NoSuchElementException as e:
-            log.error('error: no such "{}"'.format((by), e))
+            log.logger.error('error: no such "{}"'.format((by), e))
         except Exception as e:
             raise e
 
 
     # 切换到主页面
     def switch_default_iframe(self, driver, doc=''):
-        log.info('{0} - 切回主页面 - switch back to default iframe'.format(doc))
+        log.logger.info('{0} - 切回主页面 - switch back to default iframe'.format(doc))
         try:
             driver.switch_to.default_content()
         except:
-            log.error('{0} - 切换到主页面 失败！！！'.format(doc))
+            log.logger.error('{0} - 切换到主页面 失败！！！'.format(doc))
             raise
 
     def forward(self,driver):
@@ -219,17 +219,17 @@ class BasePage(object):
 
     # 执行js
     def js_execute(self, driver, jsxt):
-        log.info('{0} - 开始执行 js ......')
+        log.logger.info('{0} - 开始执行 js ......')
         driver.execute_script(jsxt)
 
     # 聚焦元素
     def js_fours_element(self, driver, by, doc=''):
-        log.info('{0} - 聚焦元素'.format(doc))
+        log.logger.info('{0} - 聚焦元素'.format(doc))
         try:
             element = wd.find_element(driver, by)
             driver.execute_script("arguments[0].scrollIntoView();",element)
         except:
-            log.error('{0} - 聚焦元素失败！！！'.format(doc))
+            log.logger.error('{0} - 聚焦元素失败！！！'.format(doc))
 
     # 滑动到页面顶部
     def js_scroll_top(self, driver):
@@ -296,15 +296,15 @@ class BasePage(object):
 
 
     # 鼠标悬浮
-    #https://blog.csdn.net/qq969887453/article/details/89607331
+    #https://blog.logger.csdn.net/qq969887453/article/details/89607331
     def move_actionchains_element(self, driver, by, doc=''):
-        log.info('{0} - 鼠标悬停操作'.format(doc))
+        log.logger.info('{0} - 鼠标悬停操作'.format(doc))
         try:
             element = wd.find_element(driver, by)
             ActionChains(self.driver).move_to_element(element).perform()
         except:
-            log.error('{0} - 鼠标悬停操作 失败！！！'.format(doc))
+            log.logger.error('{0} - 鼠标悬停操作 失败！！！'.format(doc))
             raise
 
     # 获取翻页的列表数据
-    #https://blog.csdn.net/u014703798/article/details/85003546
+    #https://blog.logger.csdn.net/u014703798/article/details/85003546

@@ -41,6 +41,48 @@
 +       UserDatas 用户模块的正常、异常的测试数据
 +       - user_add_datas.py
 
+## allure 测试报告
+### 执行命令
+```python
+# pytest -vs --alluredir ./OutPuts/report/result --clean-alluredir # 生成原始文件，不能打开html报告
+
+# allure serve ./OutPuts/report/allure-report # 打开html的报告需要启动allure服务
+
+# --clean  # --clean 清除上一次的测试报告
+# allure generate ./OutPuts/report/result -o ./OutPuts/report/allure-report -c
+
+
+# allure open ./OutPuts/report/allure-report --host 192.168.0.104 --port 8800  # 打开报告
+
+# allure open ./OutPuts/report/allure-report --port 8800
+
+```
+### @allure.step 标注操作步骤，比如 注册、登录、退出
++   用法
+
+```python
+
+import allure
+@allure.step
+def step1_register():
+    pass
+
+@allure.step
+def step2_login():
+    pass
+
+# step 可以添加描述信息，支持使用位置参数、关键字参数占位符。也可以捕获关键字参数的默认值
+@allure.step('Step with pay in the title, orderid: "{0}", fee: "{fee}"')
+def step3_pay(orderid, fee=0):
+    pass
+
+def test_with_imported_step():
+    step2_login()
+    step3_pay("20200916001", 9)
+
+
+
+```
 
 
 ## 参考文献
@@ -77,6 +119,9 @@ https://www.jianshu.com/p/b8f5a454f8d9
 
 ## 装饰器原理
 https://blog.csdn.net/u010358168/article/details/77773199
+
+## 日志
+https://www.cnblogs.com/yyds/p/6897964.html
 
 ## pytest + allure 详细文档
 https://blog.csdn.net/qq_42610167/article/details/101204066?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight

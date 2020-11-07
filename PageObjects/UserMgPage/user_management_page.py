@@ -5,7 +5,7 @@
 @time: 2020/10/31 0031 1:56
 @desc:
 '''
-
+import allure
 from Page.Plugs.BasePage import BasePage
 from Locators.UserMgLocators.user_mg_locators import UserMgLocator as loc
 
@@ -25,3 +25,8 @@ class UserMgPage(BasePage):
                 return True
         except:
             return False
+
+    @allure.feature("退出功能")
+    def logout(self):
+        doc = '用户管理页面_退出功能'
+        self.click_element(self.driver, loc.logout_loc, doc)

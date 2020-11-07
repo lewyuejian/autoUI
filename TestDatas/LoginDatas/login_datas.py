@@ -9,6 +9,6 @@ error_usernameFormat_data = [
 
 # 异常场景测试 - password
 error_passwordFormat_data = [
-    {'name': '登录功能-异常测试-密码为空', 'username': 'admin', 'password': '', 'errorMsg': '参数错误'},
-    {'name': '登录功能-异常测试-密码错误', 'username': 'admin', 'password': '1234567', 'errorMsg': '密码错误'},
+    {'name': '登录功能-异常测试-密码为空', 'username': '18144854885', 'password': '', 'errorMsg': '参数错误'},
+    {'name': '登录功能-异常测试-密码错误', 'username': '18144854885', 'password': '1234567', 'errorMsg': '密码错误'},
 ]

@@ -145,3 +145,23 @@
 2020-11-03 21:48:52,502 - ERROR - logger.py[:136] - [31m[1m登录页面_登录功能 - 页面元素输入失败！！！[0m
 2020-11-03 21:51:47,729 - ERROR - logger.py[:136] - [31m[1m登录页面_登录功能 - 页面元素输入失败！！！[0m
 2020-11-03 21:53:04,508 - ERROR - logger.py[:136] - [31m[1m登录页面_登录功能 - 页面元素输入失败！！！[0m
+2020-11-05 23:28:13,054 - ERROR - logger.py[:169] - [31m[1myic[0m
+2020-11-05 23:29:19,919 - ERROR - logger.py[:168] - [31m[1myic[0m
+2020-11-05 23:31:14,913 - ERROR - logger.py[:167] - [31m[1myic[0m
+2020-11-05 23:45:47,584 - ERROR - logger.py[:148] - [31m[1myic[0m
+2020-11-06 23:51:16,832 - ERROR - logger.py[:148] - [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-06 23:55:40,579 - ERROR - logger.py[:148] - [31m[1m 结束执行 test_login_success 测试用例， 测试结果 --- False [0m
+2020-11-07 02:40:18,455 - ERROR - logger.py[:155] - [31m[1myic[0m
+2020-11-07 23:34:15,488 - ERROR - BasePage.py[:118] - click_element - 点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span,失败！！！
+2020-11-07 23:35:45,114 - ERROR - BasePage.py[:118] - click_element - 点击页面元素:xpath=>//header[@class='pm--metabar']//div/div[4]/span,失败！！！
+2020-11-07 23:59:32,619 - ERROR - BasePage.py[:138] - get_element_text - 登录页面_获取登录失败提示,页面元素的文本获取失败！！！
+2020-11-07 23:59:32,641 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:02:45,092 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:06:52,360 - ERROR - BasePage.py[:150] - get_element_attribute - 登录页面_获取登录失败提示,页面元素的属性获取 失败！！！
+2020-11-08 00:06:52,372 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:09:50,678 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:17:21,763 - ERROR - BasePage.py[:150] - get_element_attribute - 登录页面_获取登录失败提示,页面元素的属性获取 失败！！！
+2020-11-08 00:17:21,787 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:22:53,435 - ERROR - BasePage.py[:150] - get_element_attribute - 登录页面_获取登录失败提示,页面元素的属性获取 失败！！！
+2020-11-08 00:22:53,440 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 
+2020-11-08 00:24:47,518 - ERROR - test_login.py[:59] - test_login_failure -  结束执行 test_login_failure 测试用例， 测试结果 --- False 

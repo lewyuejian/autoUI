@@ -38,13 +38,13 @@ class BrowserEngine(object):
         # chrome传入复用参数,没有传入的话，会导致执行时重新打开一个新的浏览器窗口
         # self.driver = webdriver.Chrome(options=chrome_options)
         # 所谓浏览器的无头模式headless，就是浏览器在运行时处于后台操作的模式，不会看到浏览器打开，也就不会干扰你手头的工作。对于自动化测试和网络爬虫都有很大的价值。
-
+        self.chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
     def openBrowser(self):
         u"""打开浏览器 - 最大化 - 隐式等待 - 判断title是否为预期"""
         global driver
         browser_type = read_config(config_file_path, 'BrowserType', 'browserName')
-        log.info('You had select {0} - browser.'.format(browser_type))
+        log.logger.info('You had select {0} - browser.'.format(browser_type))
 
         cf = IniConfig()
         url = cf.readConfig('URL', 'test_url')
@@ -76,20 +76,20 @@ class BrowserEngine(object):
                 driver = webdriver.Ie()
             else:
                 driver = webdriver.Chrome(executable_path=chrome_driver_path)
-                log.debug('Not found the browser - 默认使用Chrome<有界面>')
+                log.logger.debug('Not found the browser - 默认使用Chrome<有界面>')
             driver.maximize_window()
-            log.info("Maximize the current window.")
+            log.logger.info("Maximize the current window.")
             driver.implicitly_wait(5)
-            log.info("Set implicitly wait 10 seconds.")
+            log.logger.info("Set implicitly wait 10 seconds.")
             driver.get(url)
-            log.info("Visit the web url - {0}.".format(url))
+            log.logger.info("Visit the web url - {0}.".format(url))
             # 判断title是否为预期
             #WebDriverWait(driver, 10, 1).until(EC.title_contains(title))
 
             return driver
         except exceptions.BrowserNotFound:
             err_msg = u"BrowserError: Get Browser Engine error - {0}".format(browser_type)
-            log.error(err_msg)
+            log.logger.error(err_msg)
 
 
     def quitBrowser(self):
@@ -98,14 +98,14 @@ class BrowserEngine(object):
         """
         try:
             self.openBrowser().quit()
-            log.info("Exit the browser...")
+            log.logger.info("Exit the browser...")
         except exceptions.QuitUpError as e:
-            log.error('Failed to quit the browser - {0}'.format(e))
+            log.logger.error('Failed to quit the browser - {0}'.format(e))
 
     def closeBrowser(self):
         try:
             self.openBrowser().close()
-            log.info("ShutDown the browser...")
+            log.logger.info("ShutDown the browser...")
         except exceptions.CloseUpError as e:
-            log.error('Failed to closed the browser - {0}'.format(e))
+            log.logger.error('Failed to closed the browser - {0}'.format(e))
 

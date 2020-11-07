@@ -17,14 +17,14 @@ log = Colorlog()
 
 @pytest.fixture(scope='class')
 def start_module(project_module_start):
-    log.info("==========开始执行测试用例集===========")
+    log.logger.info("==========开始执行测试用例集===========")
     global driver
     driver = project_module_start
     # bg = BasePage(driver)
     # bg.openPage()
     lg = LoginPage(driver)
     yield (driver, lg)
-    log.info("==========结束执行测试用例集===========")
+    log.logger.info("==========结束执行测试用例集===========")
     driver.quitBrowser()
 
 @pytest.fixture(scope='class')
@@ -34,17 +34,18 @@ def start_session(project_session_start):
     :param project_session_start: 所有模块只打开一次浏览器
     :return: driver lg
     '''
-    log.info("==========开始执行测试用例集===========")
+    log.logger.info("==========开始执行测试用例集===========")
     global driver
     driver = project_session_start
 
-    log.info("-------------------- " + str(driver) + " ------------------------")
+    log.logger.info("-------------------- " + str(driver) + " ------------------------")
     # bg = BasePage(driver)
     # bg.openPage()
 
     lg = LoginPage(driver)
     yield (driver,lg)
-    log.info("==========结束执行测试用例集===========")
+
+    log.logger.info("==========结束执行测试用例集===========")
 
 
 # @pytest.fixture()

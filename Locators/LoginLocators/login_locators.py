@@ -13,4 +13,4 @@ class LoginLocator:
     username_loc = ("xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li/input")
     password_loc = ("xpath=>//div[@class='password-login-content wcc-small-form']/form/ul/li[2]/input")
     login_btn_loc = ("xpath=>//div[@class='password-login-content wcc-small-form']/form/p")
-    error_msg_loc = ("xpath=>//div[@class='password-login-content wcc-small-form']/form/div/p/em")
+    error_msg_loc = ("xpath=>//div[@class='password-login-content wcc-small-form']/form/div/p")

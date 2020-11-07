@@ -18,20 +18,23 @@ log = Colorlog()
 
 def platformSystem():
 
-    log.info('----------Operation System--------------------------')
-    log.debug(platform.architecture())
+    log.logger.info('----------Operation System--------------------------')
+    log.logger.debug(platform.architecture())
     oper_system = platform.system()
     #oper_system = sys.platform
 
-    log.debug('Operation System - {0}'.format(oper_system))
+    log.logger.debug('Operation System - {0}'.format(oper_system))
     return oper_system
 
 # python 版本号
 def pythonVersion():
-    log.info('--------------Python Version-------------------------')
+
+    log.logger.info('--------------Python Version-------------------------')
+
     python_version = platform.python_version()
-    log.debug('Python Version - {0}'.format(python_version))
+    log.logger.debug('Python Version - {0}'.format(python_version))
     return python_version
 
 if __name__ == '__main__':
     platformSystem()
+    pythonVersion()

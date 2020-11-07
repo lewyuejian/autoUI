@@ -1,6 +1,7 @@
 # _*_ coding: utf-8 _*_
 #!/usr/bin/env python
-
+import inspect
+import re
 import sys
 import os
 import shutil
@@ -27,6 +28,19 @@ else:
 
 PROJECT_NAME = "autoUI"
 
+def get_class_from_frame(fr):
+    args, _, _, value_dict = inspect.getargvalues(fr)
+    if len(args) and args[0] == 'self':
+        instance = value_dict.get('self', None)
+        if instance:
+            return getattr(instance, '__class__', None)
+    return None
+
+def get_current_function_name():
+    return inspect.stack()[1][3]
+
+INFO = 20
+
 class Colorlog(object):
 
     #init(autoreset=False,wrap=False)
@@ -44,8 +58,9 @@ class Colorlog(object):
     error_color = Fore.RED + Style.BRIGHT
     critical_color = Fore.CYAN
 
+
     def __init__(self):
-        ini_path = r"D:\CodeBase\SpaceSharkTT\conf\config.ini"
+        #ini_path = r"D:\CodeBase\SpaceSharkTT\conf\config.ini"
 
         self.cf = IniConfig()
         # 读取控制台日志开关
@@ -62,11 +77,15 @@ class Colorlog(object):
         self.error_output_level = self.cf.read_log_config('LogConfig','ErrorLevel')[0]
         #print(self.error_output_level)
 
+        #self.chain = self.__class__.__name__, get_current_function_name()
+
+
         # 日志格式
-        log_format = '%(asctime)s - %(pathname)s [line:%(lineno)d] - %(process)d - %(thread)d - %(name)s - %(levelname)s: %(message)s'
+        log_format = f'%(asctime)s - %(pathname)s [line:%(lineno)d] - %(funcName)s - %(levelname)s: %(message)s'
         #log_format = "%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s"
         filetime = datetime.datetime.now()
         self.logger = logging.getLogger(PROJECT_NAME + '-' + str(filetime.strftime('%Y_%m_%d')))
+
 
         self.logger.handlers = []
 
@@ -94,9 +113,9 @@ class Colorlog(object):
             # 生成错误日志文件
             # 错误日志开关
             if self.error_switch:
-                self.err_file_handler = logging.FileHandler(error_log_file_path, encoding='utf-8')
+                self.err_file_handler = logging.FileHandler(error_log_file_path, mode='a', encoding='utf-8')
                 self.err_file_handler.setLevel(self.error_output_level)
-                err_format = "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"
+                err_format = "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(funcName)s - %(message)s"
 
                 self.err_file_handler.setFormatter(logging.Formatter(err_format))
                 self.logger.addHandler(self.err_file_handler)
@@ -123,14 +142,19 @@ class Colorlog(object):
                 self.file_handler.setFormatter(file_format)
                 self.logger.addHandler(self.file_handler)
 
+
+
     # 有颜色的写法
     def warning(self,message):
         self.logger.warning(Colorlog.warn_color + str(message) + Style.RESET_ALL)
         self.logger.removeHandler(self.logger.handlers)
 
     def info(self,message):
-        self.logger.info(Colorlog.info_color + str(message) + Style.RESET_ALL)
+        msg = Colorlog.info_color + str(message) + Style.RESET_ALL
+
+        self.logger._log(msg)
         self.logger.removeHandler(self.logger.handlers)
+
 
     def error(self,message):
         self.logger.error(Colorlog.error_color + str(message) + Style.RESET_ALL)
@@ -145,6 +169,9 @@ class Colorlog(object):
         self.logger.critical(Colorlog.critical_color + str(message) + Style.RESET_ALL)
         self.logger.removeHandler(self.logger.handlers)
 
+    # def test(self,message):
+    #     chain = self.get_meta_data()
+    #     logging.info(message, extra={'chain': chain})
 
 
     # 以下皆为重写方法，并且每次记录后清除logger
@@ -181,6 +208,7 @@ if __name__ == '__main__':
     log.error('yic')
     log.debug('官方调式')
     log.info(os.path.dirname(__file__))
+
 
 
 

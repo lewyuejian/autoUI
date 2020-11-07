@@ -69,9 +69,9 @@ class WebDriver:
         try:
             wait.until(EC.title_contains(title))
         except TimeoutException as t:
-            log.error('OPEN {0} title error'.format(t))
+            log.logger.error('OPEN {0} title error'.format(t))
         except Exception as e:
-            log.error('Error - {0}'.format(e))
+            log.logger.error('Error - {0}'.format(e))
 
     @staticmethod
     def get_clickable_element(driver, way):
@@ -158,7 +158,7 @@ class WebDriver:
     # 判断指定元素的属性值中是否包含了预期的字符串
     # TODO: 未修复bug，未加预期值
     @staticmethod
-    def get_attribute_element(driver, way ,name):
+    def get_attribute_element(driver, way, name):
         wait = WebDriverWait(driver, 10)
         if "=>" in way:
             by = way[:way.find('=>')]
@@ -167,30 +167,30 @@ class WebDriver:
                 # 语法错误，参考id=>element.
                 raise NameError("Grammatical errors, reference: 'id=>element'.")
             if by == 'id':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.ID, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.ID, value), name))
                 return element
             elif by == 'name':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.NAME, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.NAME, value), name))
                 return element
             elif by == 'className':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.CLASS_NAME, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.CLASS_NAME, value), name))
                 return element
             elif by == 'css':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.CSS_SELECTOR, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.CSS_SELECTOR, value), name))
                 return element
             elif by == 'tagName':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.TAG_NAME, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.TAG_NAME, value), name))
                 return element
             elif by == 'linkText':
-                element = wait.until(EC.text_to_be_present_in_element_value((By.LINK_TEXT, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.LINK_TEXT, value), name))
                 return element
             else:
-                element = wait.until(EC.text_to_be_present_in_element_value((By.XPATH, value),name))
+                element = wait.until(EC.text_to_be_present_in_element_value((By.XPATH, value), name))
                 return element
 
         else:
             xpath = "//*[text()='{}']".format(way)
-            element = wait.until(EC.text_to_be_present_in_element_value((By.XPATH, xpath),name))
+            element = wait.until(EC.text_to_be_present_in_element_value(By.XPATH, xpath))
             return element
 
     @staticmethod
@@ -315,7 +315,7 @@ class WebDriver:
             element = wait.until(EC.alert_is_present())
             return element
         except TimeoutException as t:
-            log.error('error: 判断页面上是否存在alert超时！- {}'.format(t))
+            log.logger.error('error: 判断页面上是否存在alert超时！- {}'.format(t))
         except Exception as e:
             raise e
 
